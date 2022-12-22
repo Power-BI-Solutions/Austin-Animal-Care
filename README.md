@@ -2,7 +2,7 @@
 
 ### Dashboard
 <p align="center">
-<img width="650em" src="" align = "center"/>
+<img width="650em" src="https://github.com/Power-BI-Solutions/Austin-Animal-Care/blob/main/Austin%20Animal%20Care.gif" align = "center"/>
 </p>
 <br><br/>
 
@@ -40,11 +40,11 @@ Outcomes = COUNTROWS('Outcomes')
 ### Model
 
 <p align="center">
-<img width="650em" src="" align = "center"/>
+<img width="650em" src="https://github.com/Power-BI-Solutions/Austin-Animal-Care/blob/main/autin_animal_care_data.png" align = "center"/>
 </p>
-<br><br/>)
+<br><br/>
 
-### Acknowledgement
+### Acknowledgements
 Source: [WoW Power BI](https://www.workout-wednesday.com/pbi-2021-w06/) (Workout Wednesday)
 - [Long labels tutorial](https://www.youtube.com/watch?v=UR0r0f79XRA)
 
